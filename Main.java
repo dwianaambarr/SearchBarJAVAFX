@@ -13,7 +13,7 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class Iss extends Application{
+public class Main extends Application{
     private TableView<Search> tableView = new TableView<Search>();
     private final ObservableList<Search> data
 	    = FXCollections.observableArrayList(
