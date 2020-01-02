@@ -1,4 +1,3 @@
-package DwiAnaAmbarR;
 import java.io.File;
 import java.util.*;
 import javafx.application.Application;
